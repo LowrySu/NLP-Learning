@@ -38,7 +38,7 @@ Method of using a continuous vector to represent words
 
 ad
 
-![](/Users/wenqiangsu/Documents/NLP-Learning/read-notes/images/Screen%20Shot%202022-04-01%20at%2012.02.06%20PM.png)
+![word2vec](https://raw.githubusercontent.com/LowrySu/NLP-Learning/main/read-notes/images/p1.png)
 
 4. # 3. New Long-linear Models
 
